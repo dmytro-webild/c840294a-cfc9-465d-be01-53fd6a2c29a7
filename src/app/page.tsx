@@ -86,28 +86,28 @@ export default function LandingPage() {
             {
               id: 1,
               title: "80 Офіційних екзаменаційних билетів",              description: "Повна структура офіційних билетів ПДР України, які відповідають актуальним екзаменаційним стандартам",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/college-students-cramming-outdoor_23-2149649371.jpg",                imageAlt: "Екзаменаційна система тестування"
+                imageSrc: "http://img.b2bpic.net/free-photo/college-students-cramming-outdoor_23-2149649371.jpg?_wi=1",                imageAlt: "Екзаменаційна система тестування"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/college-students-cramming-outdoor_23-2149649371.jpg",                imageAlt: "Інтерфейс тестування"
+                imageSrc: "http://img.b2bpic.net/free-photo/college-students-cramming-outdoor_23-2149649371.jpg?_wi=2",                imageAlt: "Інтерфейс тестування"
               }
             },
             {
               id: 2,
               title: "AI-помічник 24/7",              description: "Інтегрований чат з штучним інтелектом на базі Gemini 3.1 Pro, який пояснює складні питання та допомагає розуміти помилки",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-typing-keyboard_23-2148994212.jpg",                imageAlt: "AI-помічник в чаті"
+                imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-typing-keyboard_23-2148994212.jpg?_wi=1",                imageAlt: "AI-помічник в чаті"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-typing-keyboard_23-2148994212.jpg",                imageAlt: "AI-інтеграція"
+                imageSrc: "http://img.b2bpic.net/free-photo/close-up-woman-typing-keyboard_23-2148994212.jpg?_wi=2",                imageAlt: "AI-інтеграція"
               }
             },
             {
               id: 3,
               title: "Відстеження прогресу",              description: "Детальна статистика тестування, історія помилок та розширена аналітика вашого прогресу навчання",              phoneOne: {
-                imageSrc: "http://img.b2bpic.net/free-photo/guy-making-table-paper_23-2148288563.jpg",                imageAlt: "Статистика прогресу"
+                imageSrc: "http://img.b2bpic.net/free-photo/guy-making-table-paper_23-2148288563.jpg?_wi=1",                imageAlt: "Статистика прогресу"
               },
               phoneTwo: {
-                imageSrc: "http://img.b2bpic.net/free-photo/guy-making-table-paper_23-2148288563.jpg",                imageAlt: "Аналітика результатів"
+                imageSrc: "http://img.b2bpic.net/free-photo/guy-making-table-paper_23-2148288563.jpg?_wi=2",                imageAlt: "Аналітика результатів"
               }
             }
           ]}
